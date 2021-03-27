@@ -38,8 +38,8 @@
 <img width="1428" alt="Screen Shot 2021-02-08 at 10 48 52 PM" src="https://user-images.githubusercontent.com/71665063/107317259-f2a0e480-6a5f-11eb-8c63-4a384b58c29b.png">
   
   ## Links
-  1. Heroku: 
-  2. Repository: 
+  1. Heroku: https://git.heroku.com/workitoutt.git
+  2. Repository: https://github.com/jamjamss/workitout
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-green)
   <br />
@@ -48,7 +48,7 @@
   ## Questions
 
   You can find me on GitHub: 
-  [Nadirah Jama]()
+  [Nadirah Jama](https://github.com/jamjamss/workitout)
   
-  ✉️ Email me: alim12@csp.edu
+  ✉️ Email me: Nadirahjama@gmail.com
       
